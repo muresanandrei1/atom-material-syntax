@@ -1,7 +1,7 @@
 {
-  "name": "atom-material-syntax",
+  "name": "atom-material-syntax-muri",
   "theme": "syntax",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
   "keywords": [
     "syntax",
@@ -9,7 +9,7 @@
     "material",
     "material design"
   ],
-  "repository": "https://github.com/silvestreh/atom-material-syntax",
+  "repository": "https://github.com/muresanandrei1/atom-material-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
